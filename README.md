@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 **Education**: In 2025, I graduated from RTU MIREA with a degree in Applied Computer Science, specializing in Data Management.
+- 🎓 **Education**: Earned a Bachelor's Degree in Applied Computer Science with concentration in Data Management from RTU MIREA (2025).
 - 🔍 **Focus**: Deepening my expertise in Data Science and Machine Learning, particularly in predictive analytics and data visualization.
 - 💡 **Passion**: I'm passionate about leveraging statistical methods and machine learning algorithms to transform raw data into actionable insights that inform strategic decision-making.
 - 🛠️ **Projects**: Currently honing my skills through hands-on projects that involve the entire data pipeline—from data cleaning and feature engineering to model evaluation and deployment.
